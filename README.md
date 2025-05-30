@@ -1,4 +1,3 @@
-# CustomerSegmentation
 # Customer-Segmentation
 ## Project Overview
 Customer segmentation is a vital technique used by businesses to group their customers based on similar characteristics, behaviors, or preferences. This project leverages machine learning algorithms to perform segmentation, enabling businesses to target their customers more effectively.
@@ -51,4 +50,4 @@ Each cluster exhibited distinct patterns:
 - Businesses can focus marketing efforts on high-value clusters.
 - Identify potential areas for customer engagement and loyalty programs
 ## Contributors
-Email: hemanthmaheswara1109@gmail.com
+Email:maddikeramaheshwarareddy@gmail.com,vanithaduppatla@gmail.com
