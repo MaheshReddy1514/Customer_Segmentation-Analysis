@@ -16,7 +16,7 @@ The main objective of this project is to segment customers into distinct groups 
 - Age: Age of the customer.
 - Annual Income (k$): Annual income in thousand dollars.
 - Spending Score (1-100): Score assigned based on customer spending behavior and frequency.
-- Size: 200 rows and 5 columns.
+- Size: 190 rows and 5 columns.
 
 ## Approach
 1. Data Preprocessing
